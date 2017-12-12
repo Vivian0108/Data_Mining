@@ -1,2 +1,2 @@
 # Data_Mining
-Contains assignment codes, written in R, pertaining to linera regression, SVM, etc
+Contains assignment codes, written in R, pertaining to linear regression, SVM, etc
